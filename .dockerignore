@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Config/IDE
+*.log
+*.idea/
+*.vscode/
+*.DS_Store
+
+# Tests & docs
+tests/
+docs/
+
+# Git
+.git
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Cache
+*.egg-info/
+*.egg
+*.cache/
+.mypy_cache/
+.pytest_cache/
+coverage/
+
+# Node
+node_modules/
+dist/
+build/
